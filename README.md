@@ -6,6 +6,7 @@
 <h3 align="center">Start mapping your lineage with our user-friendly family tree creator!</h3>
   
 - [Try live demo](https://goweddy.net/login) (Account: john.doe@goweddy.net/GoWeddy@2023!)
+- [Published mode](https://goweddy.net/en/family-tree/share/86a043d5-8be4-4d95-a398-b6a5a3a150e2) (Security passcode: 123)
 - [Get the source code](https://kluong.gumroad.com/l/genealogy-tree) 
 
 # Introduction
